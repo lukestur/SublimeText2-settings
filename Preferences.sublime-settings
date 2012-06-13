@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/User/Monokai GG.tmTheme",
+	"color_scheme": "Packages/User/Tomorrow-Night.tmTheme",
 	"detect_indentation": false,
 	"font_face": "Meslo LG M DZ",
 	"font_size": 13,
@@ -7,7 +7,8 @@
 	[
 		"Vintage",
 		"SublimeCodeIntel",
-		"SublimeLinter"
+		"SublimeLinter",
+		"Color Highlighter"
 	],
 	"theme": "Soda Dark.sublime-theme"
 }

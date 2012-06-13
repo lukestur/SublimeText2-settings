@@ -1,8 +1,10 @@
 {
-	"auto_upgrade_last_run": 1329918513,
+	"auto_upgrade_last_run": 1339501782,
 	"installed_packages":
 	[
+		"AdvancedNewFile",
 		"Alignment",
+		"Color Highlighter",
 		"ColorPicker",
 		"Git",
 		"HyperlinkHelper",
