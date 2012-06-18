@@ -1,17 +1,19 @@
 {
-	"auto_upgrade_last_run": 1339501782,
+	"auto_upgrade_last_run": 1339975447,
 	"installed_packages":
 	[
-		"AdvancedNewFile",
-		"Alignment",
+		"Abacus",
 		"Color Highlighter",
 		"ColorPicker",
+		"DocBlockr",
 		"Git",
+		"Hex-to-RGBA",
 		"HyperlinkHelper",
+		"iTodo",
 		"LESS",
 		"Markdown Preview",
 		"Package Control",
-		"PhpDoc",
+		"Quick File Creator",
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"Terminal",

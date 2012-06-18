@@ -1,4 +1,12 @@
 [
+	// Abacus
+	{ "keys": ["super+ctrl+alt+)"], "command": "abacus" },
+
+	// Quick File Creator
+	{ "keys": ["super+ctrl+n"], "command": "quick_create_file" },
+	{ "keys": ["super+ctrl+f"], "command": "quick_create_directory" },
+
+	// various
 	{ "keys": ["ctrl+s"], "command": "focus_side_bar" },
 	{ "keys": ["ctrl+i"], "command": "reindent" },
 	{ "keys": ["super+shift+o"], "command": "prompt_open_folder"}, 

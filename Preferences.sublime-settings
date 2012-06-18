@@ -6,9 +6,8 @@
 	"ignored_packages":
 	[
 		"Vintage",
-		"SublimeCodeIntel",
-		"SublimeLinter",
-		"Color Highlighter"
+		"Color Highlighter",
+		"SublimeCodeIntel"
 	],
 	"theme": "Soda Dark.sublime-theme"
 }
