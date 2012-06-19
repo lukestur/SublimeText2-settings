@@ -1,8 +1,9 @@
 {
-	"auto_upgrade_last_run": 1340013180,
+	"auto_upgrade_last_run": 1340110110,
 	"installed_packages":
 	[
 		"Abacus",
+		"Bullet",
 		"Color Highlighter",
 		"ColorPicker",
 		"DocBlockr",
@@ -12,6 +13,7 @@
 		"iTodo",
 		"LESS",
 		"Markdown Preview",
+		"mdTodo",
 		"Package Control",
 		"Quick File Creator",
 		"SublimeCodeIntel",
