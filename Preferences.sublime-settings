@@ -2,13 +2,12 @@
 	"color_scheme": "Packages/User/Tomorrow-Night.tmTheme",
 	"detect_indentation": false,
 	"font_face": "Meslo LG M DZ",
-	"font_size": 13,
+	"font_size": 14,
+	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Vintage",
-		"Color Highlighter",
-		"SublimeCodeIntel",
-		"iTodo"
+		"SublimeCodeIntel"
 	],
 	"theme": "Soda Dark.sublime-theme"
 }

@@ -1,16 +1,15 @@
 {
-	"auto_upgrade_last_run": 1340110110,
+	"auto_upgrade_last_run": 1342384968,
 	"installed_packages":
 	[
 		"Abacus",
 		"Bullet",
-		"Color Highlighter",
 		"ColorPicker",
 		"DocBlockr",
 		"Git",
+		"GotoOpenFile",
 		"Hex-to-RGBA",
 		"HyperlinkHelper",
-		"iTodo",
 		"LESS",
 		"Markdown Preview",
 		"mdTodo",
@@ -20,6 +19,7 @@
 		"SublimeLinter",
 		"Terminal",
 		"Theme - Soda",
+		"Xdebug",
 		"ZenCoding"
 	]
 }
